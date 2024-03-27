@@ -2,6 +2,36 @@ header{
     background-color: #ff5757;
 }
 
+main{
+    padding: 10px;
+    background-color: silver;
+}
+
+.post{
+    background-color: silver;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.post img {
+    margin: 20px;
+}
+
 footer{
     background-color: #ff5757;
+}
+
+.footer-columns{
+    display: flex;
+}
+.footer-columns{
+    flex: 50%;
+    margin: 20px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
 }
