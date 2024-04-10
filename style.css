@@ -7,6 +7,11 @@ main {
     background-color: silver;
 }
 
+.sliderimg{
+    width: 100%;
+    height: 300px;
+}
+
 .post {
     background-color: silver;
     padding: 20px;
